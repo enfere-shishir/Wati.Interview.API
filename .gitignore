@@ -10,3 +10,5 @@
 /Wait.API.Tests/obj
 /Wati.API/.vs/Wati.API/v17/TestStore/0
 /Wait.API.Tests/bin/Release/net6.0
+/Wati.API.Common/obj
+/Wati.API.Common/bin/Debug/net6.0

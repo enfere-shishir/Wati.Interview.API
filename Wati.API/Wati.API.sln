@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wati.API", "Wati.API.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wait.API.Tests", "..\Wait.API.Tests\Wait.API.Tests.csproj", "{A08C3BBE-9A63-4998-B3E6-57004F97E2B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wati.API.Common", "..\Wati.API.Common\Wati.API.Common.csproj", "{19D0C8AB-4499-4F2E-965D-B28DE43AEB11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A08C3BBE-9A63-4998-B3E6-57004F97E2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A08C3BBE-9A63-4998-B3E6-57004F97E2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A08C3BBE-9A63-4998-B3E6-57004F97E2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D0C8AB-4499-4F2E-965D-B28DE43AEB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D0C8AB-4499-4F2E-965D-B28DE43AEB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D0C8AB-4499-4F2E-965D-B28DE43AEB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D0C8AB-4499-4F2E-965D-B28DE43AEB11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
