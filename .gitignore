@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Wati.API/bin/Debug/net6.0
+/.vs/slnx.sqlite
+/Wati.API/obj
+/Wati.API/.vs/Wati.API/v17/.suo
