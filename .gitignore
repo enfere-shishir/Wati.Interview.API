@@ -6,3 +6,7 @@
 /.vs/slnx.sqlite
 /Wati.API/obj
 /Wati.API/.vs/Wati.API/v17/.suo
+/Wait.API.Tests/bin/Debug/net6.0
+/Wait.API.Tests/obj
+/Wati.API/.vs/Wati.API/v17/TestStore/0
+/Wait.API.Tests/bin/Release/net6.0
